@@ -7,5 +7,4 @@ Given a number of cents as an argument, the method should return a hash with the
 
 Run `learn` to check your answer!
 
-
 <p data-visibility='hidden'>KWK-L1 Least Coins Challenge</p>
